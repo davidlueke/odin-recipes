@@ -3,24 +3,29 @@ body{
     box-sizing: border-box;
 }
 
+li {
+    font-size: 20px;
+}
+
 .card{
     background-color: rgb(194, 176, 124);
     margin: 16px auto;
     height: auto;
     width: 800px;
+
 }
 
 .hborder {
     margin: 20px auto;
     padding: 10px;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: rgb(236, 227, 204);
     border: 6px solid rgb(99, 81, 27);
     font-family: 'Times New Roman', Times, serif;
 }
 
 .links {
-    background-color: antiquewhite;
+    background-color: rgb(236, 227, 204);
     padding: 50px;
     margin: 50px;
     border: 6px solid rgb(99, 81, 27);
